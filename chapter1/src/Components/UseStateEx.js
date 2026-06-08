@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { useState } from 'react';
 
 function UseStateEx() {
@@ -16,5 +16,4 @@ function UseStateEx() {
     );
 }
 
-// Clean export statement:
 export default UseStateEx;
